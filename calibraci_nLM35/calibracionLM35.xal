@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<arduino-link-project>
+  <source-path />
+  <relative-path>Y</relative-path>
+  <port>COM9</port>
+  <device-id />
+  <baud-rate>9600</baud-rate>
+  <log-file-path />
+  <append-cr>N</append-cr>
+  <append-lf>N</append-lf>
+  <transmit-strings />
+  <serial-monkey>
+    <monkey-data>
+      <name>Pattern 1</name>
+      <pattern />
+      <response />
+      <enabled>Y</enabled>
+    </monkey-data>
+  </serial-monkey>
+</arduino-link-project>
